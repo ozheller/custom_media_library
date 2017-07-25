@@ -34,3 +34,7 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# MISC system files #
+.DS_Store
+.idea/
