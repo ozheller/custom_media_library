@@ -1,4 +1,4 @@
-# Pivot Media Library
+# Custom Media Library
 
 Installing this module will provide basic configuration for media libraries.
 
